@@ -1,0 +1,4 @@
+/usr/bin/ld: /tmp/ccCuEcwP.o: na função "main":
+ft_put_j.c:(.text+0x24): múltiplas definições de "main"; /tmp/cc827agC.o:main.c:(.text+0x0): definido primeiro aqui
+collect2: error: ld returned 1 exit status
+
