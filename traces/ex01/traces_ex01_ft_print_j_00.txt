@@ -1,0 +1,16 @@
+ft_print_j.c: In function ‘main’:
+ft_print_j.c:7:9: error: implicit declaration of function ‘white’; did you mean ‘write’? [-Werror=implicit-function-declaration]
+    7 |         white(1, "/c", 1);
+      |         ^~~~~
+      |         write
+ft_print_j.c:8:9: error: implicit declaration of function ‘ft_print_j’; did you mean ‘fprintf’? [-Werror=implicit-function-declaration]
+    8 |         ft_print_j();
+      |         ^~~~~~~~~~
+      |         fprintf
+ft_print_j.c:9:18: error: expected ‘;’ before ‘}’ token
+    9 |         return(0)
+      |                  ^
+      |                  ;
+   10 | }
+      | ~                 
+cc1: all warnings being treated as errors
