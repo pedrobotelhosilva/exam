@@ -1,0 +1,7 @@
+ft_print_j.c: In function ‘main’:
+ft_print_j.c:12:9: error: implicit declaration of function ‘ft_print_j’; did you mean ‘fprintf’? [-Werror=implicit-function-declaration]
+   12 |         ft_print_j();
+      |         ^~~~~~~~~~
+      |         fprintf
+cc1: all warnings being treated as errors
+
