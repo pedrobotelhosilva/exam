@@ -1,0 +1,12 @@
+Nome da função: ft_put_j
+
+Pasta de entrega : rendu/ex02/
+ 
+Arquivos para entregar : ft_put_j.c
+ 
+Funções autorizadas : write
+
+• Escreva uma função que exiba a string "J" seguida de uma quebra de linha. (Use apenar uma vez a função write)
+
+Protótipo da função: void	ft_put_j(void);
+

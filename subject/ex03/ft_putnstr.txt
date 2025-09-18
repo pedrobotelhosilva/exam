@@ -1,0 +1,13 @@
+Nome da função: ft_putnstr
+
+Pasta de entrega : rendu/ex03/
+
+Arquivos para entregar : ft_putnstr.c
+
+Funções autorizadas : write
+
+• Escreva uma função que mostre a string "str" de tamanho "n" passada como parâmetro.
+
+
+Ela deve ser prototipada da senginte maneira: void ft_putnstr(char *str, int n);
+

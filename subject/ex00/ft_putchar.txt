@@ -1,0 +1,12 @@
+Nome da função: ft_putchar
+
+Pasta de entrega : rendu/ex00/
+
+Arquivos para entregar : ft_putchar.c
+
+Funções autorizadas : write
+
+• Escreva uma função que mostre o caractere passado como parâmetro.
+
+
+Ela deve ser prototipada da senginte maneira: void ft_putchar(char c);

@@ -1,0 +1,7 @@
+Pasta de entrega : rendu/ex00/
+ 
+Arquivos para entregar : ft_print_j.c
+ 
+Funções autorizadas : write
+
+• Escreva um programa que exiba um "J" seguido de uma quebra de linha.

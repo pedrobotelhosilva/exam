@@ -1,0 +1,12 @@
+Nome da função: ft_putstr
+
+Pasta de entrega : rendu/ex05/
+
+Arquivos para entregar : ft_putstr.c
+
+Funções autorizadas : write
+
+• Escreva uma função que exiba a string "str" passada como parâmetro.
+
+
+Ela deve ser prototipada da senginte maneira: void ft_putstr(char *str);

@@ -1,0 +1,12 @@
+Nome da função: ft_strlen
+
+Pasta de entrega : rendu/ex04/
+
+Arquivos para entregar : ft_strlen.c
+
+Funções autorizadas : Nenhuma
+
+• Escreva uma função que retorne o tamanho da string "str" passada como parâmetro.
+
+
+Ela deve ser prototipada da senginte maneira: int ft_strlen(char *str);
