@@ -11,7 +11,7 @@ int	main(void)
 	char	c;
 
 	c = 'b';
-	ft_putchar(b);
+	ft_putchar(c);
 	return 0;
 }
 */
